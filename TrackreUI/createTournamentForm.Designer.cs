@@ -1,6 +1,6 @@
 ﻿namespace TrackreUI
 {
-    partial class createTournamentForm
+    partial class CreateTournamentForm
     {
         /// <summary>
         /// Required designer variable.
@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(createTournamentForm));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(CreateTournamentForm));
             this.headerLabel = new System.Windows.Forms.Label();
             this.tournamentNameValue = new System.Windows.Forms.TextBox();
             this.tournamentNameLabel = new System.Windows.Forms.Label();

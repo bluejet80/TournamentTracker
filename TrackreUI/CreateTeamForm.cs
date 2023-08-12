@@ -10,14 +10,14 @@ using System.Windows.Forms;
 
 namespace TrackreUI
 {
-    public partial class CreateTournamentForm : Form
+    public partial class CreateTeamForm : Form
     {
-        public CreateTournamentForm()
+        public CreateTeamForm()
         {
             InitializeComponent();
         }
 
-        private void teamOneScoreValue_TextChanged(object sender, EventArgs e)
+        private void createTeamButton_Click(object sender, EventArgs e)
         {
 
         }
